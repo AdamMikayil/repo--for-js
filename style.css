@@ -1,0 +1,11 @@
+h1{
+    color: goldenrod;
+    text-shadow: 0 0 9px gold;
+}
+
+
+button{
+    color: chocolate;
+    background-color: beige;
+    border-radius: 20px;
+}
